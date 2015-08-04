@@ -6,6 +6,7 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
+   leadership
 
 
 Index und Suche
