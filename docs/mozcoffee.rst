@@ -26,11 +26,13 @@ Für das Meetup gibt es grundlegend zwei mögliche Formate. Entweder kann es sic
 Das andere Format ist ein Vortrag-basiertes Meetup. Hier spielt es grundsätzlich keine Rolle, welche Themen besprochen werden. Wichtig ist, dass es sich um ein Thema handelt, bei welchem du dich wohl fühlst und gerne Auskunft gibst.
 
 Mögliche Themen für Vorträge (kann von 10 bis 60 Minuten reichen):
+
 * Mozilla generell (Mission, Struktur, Gemeinschaft)
 * Was sind die möglichen funktionalen Gebiete, bei denen sich man engagieren kann?
 * Produkt-spezifisch, z.B. Firefox, Firefox OS, Webmaker, ..
 * Gebiet-spezifisch, z.B. UX, Design, Coding, Lokalisierung, ..
 * Web Developer spezifische Talks, wie z.B. "Demo Firefox Developer Tools"
+* Netzneutralität, Privatsphäre
 
 Für beide Formate gilt: es macht nichts, wenn du auf eine Frage nicht antworten kannst. Auch "ich weiss, wen ich da fragen kann und ich werde mich bei dir melden" ist eine gute Antwort.
 
