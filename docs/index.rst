@@ -17,6 +17,7 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
+   mozcoffee
    leadership
 
 
@@ -25,4 +26,3 @@ Index und Suche
 
 * :ref:`genindex`
 * :ref:`search`
-
