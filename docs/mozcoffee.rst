@@ -73,16 +73,13 @@ Die Grösse gegen oben ist offen, benötigt aber mehr Organisationsaufwand, je g
 Geeignete Location finden
 -------------------
 
-Anhand der Grösse und Thema kann nun ein geeigneter Ort für das Meetup gesucht werden.
+Anhand der Grösse und Thema kann nun ein geeigneter Ort für das Meetup gesucht werden. Dies sollte zur Sicherheit mind. 2 Wochen vor dem Meetup erledigt werden. So kann sichergestellt werden, dass alle Teilnehmer wissen, wo das Meetup stattfinden wird.
 
-Level 1 (bis zu 8-10 Personen):
+Level 1 (bis zu 8-10 Personen): Kleinere Meetups können ohne Probleme in Restaurants durchgeführt werden. Hierbei ist jedoch zu beachten, dass es sich nicht um ein zu überfülltes Restaurant handeln sollte, damit Gespräche möglich sind. Einander anzuschreien bringt nichts ;) Achtung: Reservierung nicht vergessen, damit auch genügend Platz vorhanden ist. Orte wie Starbucks funktionieren auch wunderbar.
 
+Level 2 (für Vorträge oder ab 10 Personen): Für Vorträge oder bei grösseren Meetups wird zwingend ein eigener Raum benötigt. In den meisten Fällen haben Universitäten abends freie Räume, die man (wenn man lieb fragt), gerne für ein Meetup benützen darf. Als Alternative kann auch der Arbeitgeber gefragt werden, ob ein Sitzungszimmer dafür verwendet werden darf. Falls beides nicht möglich ist, können auch andere Firmen angefragt werden. Webentwickler-nahe Firmen hosten in vielen Fällen gerne Meetups.
 
-Level 2 (für Vorträge oder ab 10 Personen):
-
-
-Level 3 (längerfristig):
-
+Level 3 (längerfristig): wenn absehbar ist, dass es in Zukunft weitere, regelässige Meetups geben wird, ist es sinnvoll, sich nach einer längerfristigen Lösung umzusehen. Falls in "Level 2" eine Möglichkeit gefunden wurde, kann man den Anbieter des Raums fragen, ob man mit einer Frist von n Wochen da jederzeit (sofern verfügbar) den Raum haben dürfte.
 
 Meetup durchführen
 -------------------
@@ -92,10 +89,14 @@ Hier gibt es nur etwas zu sagen: habt Spass! Die Durchführung soll kein Zwang s
 Nachfolgende Arbeiten
 -------------------
 
+Um Teilnehmer über neue Meetups zu informieren, ist es nötig, eine Kontaktmöglichkeit zu haben. Dies kann ein Newsletter sein, eine meetup.com Gruppe oder auch einfach eine eMail-Liste.
+
+Damit potentielle Mitwirkende optimal unterstützt werden können, ist es am Anfang nötig, eine nahe Beziehung mit ihnen zu führen und so gut wie möglich zu unterstützen.
+
 Periodizität
 -------------------
 
-
+Solange die Meetups regelmässig stattfinden, spielt es keine Rolle, wie oft dies der Fall ist. Dies kann einmal im Quartal sein, oder einmal im Monat. Dies ist abhängig von der Zeit, die man für die Organisation aufwenden kann.
 
 Werkzeuge / Promotion
 -------------------
@@ -103,24 +104,37 @@ Werkzeuge / Promotion
 Gibt es andere Stammtische, Meetups, etc in dieser Stadt?
 ^^^^^^^^^^^^
 
+Gibt es in deiner Stadt andere Stammtische oder Meetups? Das findest du u.a. über meetup.com raus. Falls es welche gibt, wäre es sinnvoll, einen davon zu besuchen, um zu sehen, wie das da gehandhabt wird. Ist bereits ein Datum für ein Mozilla Meetup bekannt, kann an diesen anderen Meetups auch Werbung dafür gemacht werden.
 
+Gegebenenfalls gibt es auch die Möglichkeit, Vorträge bei anderen Meetups zu halten, um zu sehen, ob in dieser Stadt überhaupt Interesse besteht.
 
 Meetup.com
 ^^^^^^^^^^^^
 
+Für regelmässige Meetups kann auf meetup.com eine Meetup-Gruppe erstellt werden. Weitere Informationen dazu gibt es direkt auf meetup.com.
+
+Beispiele:
+
+* http://www.meetup.com/Mozilla-Meetup-Switzerland/
+* http://www.meetup.com/Bremen-Mozilla-Meetup/
+* http://www.meetup.com/Berlin-Mozilla-Meetup/
+
 Twitter / Soziale Medien
 ^^^^^^^^^^^^
+
+Die Promotion kann, sofern für diese Stadt überhaupt sinnvoll, über Twitter und andere soziale Medien gemacht werden. Dabei ist es wichtig, dass man irgendwo eine Seite hat, die man in den Beiträgen verlinken kann. Diese Seite sollte mind. eine Beschreibung, Datum und Ort erwähnen.
 
 Budget
 ^^^^^^^^^^^^
 
-Normally MozCoffee-like events should be possible without Budget. In case this shouldn't be possible with good reasons, this could be done through Mozilla Reps. Please get in touch with a Rep in your area to discuss this.
+Normalerweise sollte es nicht nötig sein, für ein Meetup Budget zu erhalten. Sollte dies aber trotzdem nötig sein, meldest du dich bei Michael Kohler, da dies über Reps läuft.
 
 Swag
 ^^^^^^^^^^^^
 
+Sticker sind ein gutes Mittel, um Leuten eine Freude zu bereiten. Wenn diese auf einem Laptop landen und Firefox promoten, umso besser. Falls ihr für ein Meetup Swag benötigt, meldet euch bei Michael Kohler, da dies über Reps läuft.
 
-Weitereführende Informationen
+Weiterführende Informationen
 --------------
 
 Francisco vom Participation-Team hat ein "Event Playbook" erstellt. Dieses enthält weitere Fragen, die man sich stellen kann. Es geht jedoch in den meisten Teilen weiter, als ein einfaches Meetup. (Link folgt noch, ist momentan noch ein Google Doc)
