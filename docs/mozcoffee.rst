@@ -137,4 +137,4 @@ Sticker sind ein gutes Mittel, um Leuten eine Freude zu bereiten. Wenn diese auf
 Weiterführende Informationen
 --------------
 
-Francisco vom Participation-Team hat ein "Event Playbook" erstellt. Dieses enthält weitere Fragen, die man sich stellen kann. Es geht jedoch in den meisten Teilen weiter, als ein einfaches Meetup. (Link folgt noch, ist momentan noch ein Google Doc)
+`Francisco <https://mozillians.org/u/FrancJP/>`_ vom Participation-Team hat ein "Event Playbook" erstellt. Dieses enthält weitere Fragen, die man sich stellen kann. Es geht jedoch in den meisten Teilen weiter, als ein einfaches Meetup. (Link folgt noch, ist momentan noch ein Google Doc)
